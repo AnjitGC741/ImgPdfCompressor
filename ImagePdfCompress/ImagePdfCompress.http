@@ -1,0 +1,6 @@
+@ImagePdfCompress_HostAddress = http://localhost:5077
+
+GET {{ImagePdfCompress_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
